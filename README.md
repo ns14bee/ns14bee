@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ns14bee aka Niraj or simply Bee
-- 👀 I’m interested in ... Python, Node blah blah
-- 🌱 I’m currently learning ... React
+- 👀 I’m interested in ... NextJS, ReactJS and NodeJS
+- 🌱 I’m currently learning ... NodeJS
 - 💞️ I’m looking to collaborate on ... nothing on mind right now
 - 📫 How to reach me ... well --- search me on discord using my id ns14bee#3797
 
